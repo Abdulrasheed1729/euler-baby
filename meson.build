@@ -28,3 +28,9 @@ executable(
     'src/prob-6.cpp',
     cpp_args: args,
 )
+
+executable(
+    'prob-7',
+    'src/prob-7.cpp',
+    cpp_args: args,
+)
